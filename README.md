@@ -6,6 +6,7 @@
 
 ### Build generative AI applications with fully managed LLMs and chat with your data services. 
 - https://www.snowflake.com/en/data-cloud/cortex/
+- Quick Start snowflake : https://quickstarts.snowflake.com/
                 
 ### Tutorial : Serverless LLM Fine-tuning using Snowflake Cortex AI
    - https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0
