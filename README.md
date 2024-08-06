@@ -1,6 +1,9 @@
 
 # Snowflake Cortex AI
 
+### Snowflake Cortex AI Continues to Advance Enterprise AI with No-Code Development, Serverless Fine-Tuning and Managed Services to Build Chat-with-Data Applications
+- https://www.snowflake.com/blog/cortex-ai-advances-enterprise-ai-no-code-development/
+
 ### Build generative AI applications with fully managed LLMs and chat with your data services. 
 - https://www.snowflake.com/en/data-cloud/cortex/
                 
