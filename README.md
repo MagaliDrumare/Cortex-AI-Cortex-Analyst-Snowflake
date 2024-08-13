@@ -26,6 +26,8 @@ Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Tr
 - https://www.snowflake.com/en/data-cloud/arctic/
 
 # Snowflake and Tableau Software synergies 
+  ### Snowflake Trial : https://signup.snowflake.com/?_l=fr
+  ### Tableau Cloud Trial : https://www.tableau.com/fr-fr/products/trial
   ### Snowflake and Tableau Pulse AI-powered insights to scale data-driven decision making
   - https://www.youtube.com/live/SXgKLGJnvqU?feature=shared
   ### ETL inside Tableau Prep / Writing Data to a Snowflake Table from within Tableau Prep
