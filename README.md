@@ -1,5 +1,5 @@
 
-# Snowflake Cortex AI
+# 🚀 Snowflake Cortex AI
 
 ### Snowflake Cortex AI Continues to Advance Enterprise AI with No-Code Development, Serverless Fine-Tuning and Managed Services to Build Chat-with-Data Applications
 - https://www.snowflake.com/blog/cortex-ai-advances-enterprise-ai-no-code-development/
@@ -25,7 +25,7 @@ Lancée en novembre dernier, Snowflake Cortex AI est une suite de fonctionnalit�
 Snowflake Arctic: The Best LLM for Enterprise AI — Efficiently Intelligent, Truly Open. 
 - https://www.snowflake.com/en/data-cloud/arctic/
 
-# Snowflake and Tableau Software synergies 
+# 🚀 Snowflake and Tableau Software synergies 
   ### Snowflake Trial : https://signup.snowflake.com/?_l=fr
   ### Tableau Cloud Trial : https://www.tableau.com/fr-fr/products/trial
   ### Snowflake and Tableau Pulse AI-powered insights to scale data-driven decision making
