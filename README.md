@@ -3,7 +3,6 @@
 # 🚀 Snowflake Cortex Analyst - 14 August 2024 
 Public preview of Snowflake Cortex Analyst. Cortex Analyst, built using Meta’s Llama and Mistral models, is a fully managed service that provides a conversational interface to interact with structured data in Snowflake. It streamlines the development of intuitive, self-serve analytics applications for business users, while providing industry-leading accuracy.
 - https://www.snowflake.com/en/blog/cortex-analyst-ai-self-service-analytics/
-Getting Started with Cortex Analyst: Augment BI with AI : 
 - https://quickstarts.snowflake.com/guide/getting_started_with_cortex_analyst/index.html#3
  
 
