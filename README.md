@@ -2,7 +2,6 @@
 
 ### Snowflake Cortex video : 
 [![Watch the video](https://i9.ytimg.com/vi_webp/1RqWVpDzcxg/mqdefault.webp?v=66dc81b5&sqp=CMS3-rYG&rs=AOn4CLAMMKXBY7I3fX7oFe2hBdaKSeFc_w)](https://youtu.be/1RqWVpDzcxg)
-https://youtu.be/1RqWVpDzcxg
 
 
 ### Snowflake Generative AI Quizz : 
