@@ -3,7 +3,7 @@
 ### Snowflake Cortex video (32 min) : 
 - https://youtu.be/1RqWVpDzcxg
 
-### Snowflake Cortex video (6 min 30 s) : 
+### Snowflake Cortex Analyst video (6 min 30 s) : 
 - https://youtu.be/ZudHFEEDyUs
 
 
