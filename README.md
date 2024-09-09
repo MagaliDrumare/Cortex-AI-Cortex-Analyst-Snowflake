@@ -1,5 +1,9 @@
 #  Snowflake Generative AI 
 
+### Snowflake Cortex video : 
+[![Watch the video]](https://youtu.be/vt5fpE0bzSY)
+https://youtu.be/1RqWVpDzcxg
+
 ### Snowflake Generative AI Quizz : 
 - https://iwazf7jwq267cbwjqpyngt.streamlit.app/
 
